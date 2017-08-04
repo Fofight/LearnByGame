@@ -33,7 +33,7 @@
 1 图片（贴图，）      photoshop                      
 
 3 3D模型            
-blender，maya，3dmas，
+blender（优先考虑），maya，3dmas，
 
 4 声音          
 
