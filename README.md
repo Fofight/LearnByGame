@@ -39,7 +39,7 @@ blender（优先考虑），maya，3dmas，
 
 5 地图          python地图可视化
 
-6
+6 数据库系统      MySQL(优先考虑）,oracle,PostgreSQL,access,db2，
 
  
 
