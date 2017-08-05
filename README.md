@@ -82,8 +82,22 @@ panduoduo.net
 
 
 资源URL：
-1.https://www.wwpdb.org/
-2.
+https://www.wwpdb.org/
+https://www.raspberrypi.org/
+https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Expor
+
+
+
+硬件支持：
+1.树莓派 Raspberry Pi
+
+系统支持：kali Linux，Mac os x，DuerOS，
+
+资源暂存储：百度云盘，
+
+
+
+
 
 
 Material world-----118chemical element-->substance
