@@ -85,7 +85,7 @@ panduoduo.net
 https://www.wwpdb.org/
 https://www.raspberrypi.org/
 https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Expor
-
+http://pymol.org/
 
 
 硬件支持：
