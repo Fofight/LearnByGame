@@ -81,7 +81,9 @@ panduoduo.net
 *化学元素结合实际的自然世界在一定的范围内按照一定的比例随机分布，以实际的自然为参考，但以灵活自然为前提
 
 
-
+资源URL：
+1.https://www.wwpdb.org/
+2.
 
 
 Material world-----118chemical element-->substance
