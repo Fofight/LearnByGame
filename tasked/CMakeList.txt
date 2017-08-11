@@ -1,0 +1,3 @@
+#
+# this files is the containts of LearnBygame
+# CMakeList.txt的大部分篇幅都是在检测各种依赖库是否安装了，如果涉及到跨平台，还要分平台检测
