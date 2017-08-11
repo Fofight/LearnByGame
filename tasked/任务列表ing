@@ -3,4 +3,5 @@
 3.完整键盘表示列表，                       ING ---- ----- K_keyboard.txt
 4.LearnByGame objects分类标准概览          ING ---- ----- 
 5.objects 3D模型                           ING ---- -----
+6.分平台检测，依赖库安装检测                   ING ---- ----- CMakeLists.txt
 
